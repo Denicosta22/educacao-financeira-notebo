@@ -1,4 +1,0 @@
-touch nome-da-pasta/.gitkeep
-git add
-git commit -m "Adicionando nova pasta"
-git push
