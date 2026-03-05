@@ -6,7 +6,7 @@ Miniguia de estudo desenvolvido com IA e NotebookLM sobre Educação Financeira 
 Desenvolver um miniguia de estudo utilizando IA (NotebookLM) como ferramenta de aprendizagem ativa, reunindo fontes abertas e organizando conceitos fundamentais de educação financeira.
 
 ## 📚 Metodologia
-- Curadoria de 4 fontes acadêmicas e institucionais
+- Curadoria de 4 fontes
 - Elaboração de perguntas estratégicas
 - Teste de variações de prompts com IA
 - Construção de resumos estruturados e glossário
@@ -26,4 +26,3 @@ O projeto demonstra como a inteligência artificial pode apoiar:
 
 ## 🛠 Ferramentas Utilizadas
 - NotebookLM
-- GitHub
